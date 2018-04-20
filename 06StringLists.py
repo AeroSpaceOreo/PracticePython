@@ -6,9 +6,9 @@ string = string.lower()
 after = string[len(string) : int(len(string) / 2) - 1 : -1]
 after_odd = string[len(string) : int(len(string) / 2) : -1]
 
-if string[0:int(len(string)/2)] == after:
+if string[0:int(len(string)/2)] == after: # Palindrome with even characters
     print('It is a palindrome string. With even characters.')
-elif string[0:int(len(string)/2)] == after_odd:
+elif string[0:int(len(string)/2)] == after_odd: # Palindrome with odd characters
     print('It is a palindrome string. With odd characters.')
 else:
     print('It is not a palindrome.')
