@@ -1,0 +1,5 @@
+#Exercise 21: Write To A File (Read From A File)
+open_file = open('21WriteToAFile.txt', 'r')
+contents = open_file.read()
+print(contents)
+open_file.close()
