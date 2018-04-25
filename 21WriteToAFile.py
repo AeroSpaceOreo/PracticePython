@@ -30,5 +30,5 @@ with open(filename, 'w') as open_file
 open_file.write('A string to write')
 """
 ###Suit for single write. This exercise, it's better to close all at once
-###Since there's a multiple writes
+###Since there are multiple writes
         
