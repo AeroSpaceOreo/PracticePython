@@ -53,7 +53,7 @@ while turn < 9:
         
     
     if wincheck(board) == True:
-        print('Player one, you have won! Congratulation!')
+        print('Player one, you have won! Congratulations!')
         break
     turn += 1
     
@@ -84,6 +84,6 @@ while turn < 9:
     print('----------')
         
     if wincheck(board) == True:
-        print('Player two, you have won! Congratulation!')
+        print('Player two, you have won! Congratulations!')
         break
     turn += 1
