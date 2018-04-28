@@ -59,7 +59,7 @@ while True:
         
     
         if wincheck(board) == True:
-            print('Player 1, you have won! Congratulation!')
+            print('Player 1, you have won! Congratulations!')
             p1_score += 1
             break
         turn += 1
@@ -92,7 +92,7 @@ while True:
         print('----------')
         
         if wincheck(board) == True:
-            print('Player 2, you have won! Congratulation!')
+            print('Player 2, you have won! Congratulations!')
             p2_score += 1
             break
 
