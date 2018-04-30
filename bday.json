@@ -1,0 +1,28 @@
+{
+    "game character": [{
+            "name": "ryu",
+            "birthday": "07/21/1964"
+        },
+        {
+            "name": "mega man",
+            "birthday": "12/17/1986"
+        },
+        {
+            "name": "booker dewitt",
+            "birthday": "04/19/1874"
+        },
+        {
+            "name": "ezio auditore",
+            "birthday": "06/24/1459"
+        },
+        {
+            "name": "cloud strife",
+            "birthday": "08/19/1986"
+        },
+        {
+            "name": "count tester",
+            "birthday": "07/17/1977"
+        }
+    ]
+}
+            
